@@ -1,2 +1,2 @@
-# PyTools
-Simple single file tools, scripted in python.
+# TheCasualDevs PyTools
+> Simple single file tools, scripted in python.
